@@ -9,8 +9,7 @@ export default class MemeGenerator extends Component {
       randomImage: "http://i.imgflip.com/1bij.jpg",
       allMemeImgs: []
     };
-    this.handleInputChange = this.handleInputChange.bind(this);
-    this.handleSubmit = this.handleSubmit.bind(this);
+   
   }
 
   componentDidMount() {
