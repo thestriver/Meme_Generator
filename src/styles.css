@@ -43,7 +43,7 @@ header > p {
 }
 
 .meme > img {
-  width: 99%;
+  width: 100%;
 }
 
 .meme > h2 {
@@ -57,7 +57,7 @@ header > p {
   font-family: impact, sans-serif;
   font-size: 2em;
   text-transform: uppercase;
-  color: white;
+  color: whitesmoke;
   letter-spacing: 1px;
   text-shadow: 2px 2px 0 #000, -2px -2px 0 #000, 2px -2px 0 #000,
     -2px 2px 0 #000, 0 2px 0 #000, 2px 0 0 #000, 0 -2px 0 #000, -2px 0 0 #000,
